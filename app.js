@@ -1,5 +1,5 @@
-const bodyElement = document.getElementById('fullPage');
-const divElement = document.getElementById('colorBox');
+const bodyElement = document.getElementById('full-page');
+const divElement = document.getElementById('color-box');
 const btnClick = document.querySelector('button');
 //console.log(btnClick);
 const colorArray =['red','blue','green','purple','black','yellow','orange','pink','brown','silver'];

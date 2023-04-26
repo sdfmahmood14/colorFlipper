@@ -1,9 +1,9 @@
-#fullPage{
+#full-page{
     background-color: #F1f5f8;
     
 
 }
-#colorBox{
+#color-box{
     background-color: black;
     text-align: center;
     color: white;
@@ -16,7 +16,7 @@
     border-color: black;
     border-radius: 10%;
 }
-#clickButton{
+#click-button{
   position: absolute;
   top: 60%;
   left: 46%;
@@ -25,7 +25,7 @@
   
   
 }
-#clickButton:hover{
+#click-button:hover{
     background-color: black;
     color: white;
 }
