@@ -1,0 +1,31 @@
+#fullPage{
+    background-color: #F1f5f8;
+    
+
+}
+#colorBox{
+    background-color: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    border: 30px solid ;
+    border-color: black;
+    border-radius: 10%;
+}
+#clickButton{
+  position: absolute;
+  top: 60%;
+  left: 46%;
+  color:black;
+  border-radius: 10%;
+  
+  
+}
+#clickButton:hover{
+    background-color: black;
+    color: white;
+}
